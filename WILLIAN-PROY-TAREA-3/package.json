@@ -1,0 +1,17 @@
+{
+  "name": "willian-proy-tarea-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "watch": "nodemon init.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node init.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
