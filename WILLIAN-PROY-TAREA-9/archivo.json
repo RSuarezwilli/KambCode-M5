@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "age": 20,
+    "major": "Computer Science"
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "age": 22,
+    "major": "Mathematics"
+  },
+  {
+    "id": 3,
+    "name": "jaime",
+    "age": 65,
+    "major": "Engineering"
+  },
+  {
+    "id": 4,
+    "name": "Carlos",
+    "age": 23,
+    "major": "Engineering"
+  },
+  {
+    "id": 4,
+    "name": "pablo",
+    "age": 45,
+    "major": "Engineering"
+  }
+]
